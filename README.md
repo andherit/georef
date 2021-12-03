@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.840875.svg)](https://zenodo.org/badge/latestdoi/434671503) (v1.0.1)
+
+ 
 # georef
  fortran90 module to convert coordinates between UTM and geographic
 
